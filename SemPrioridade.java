@@ -68,6 +68,5 @@ public class SemPrioridade {
             base.write(log);
             
         }
-        System.out.println("fim");
     }
 }
