@@ -69,6 +69,5 @@ public class Prioridade {
             base.write(log);
             
         }
-        System.out.println("fim");
     }
 }
